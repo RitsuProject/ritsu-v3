@@ -11,6 +11,14 @@
     "unableToLoadStream": "Aus sehr bösen Gründen, war ich nicht in der Lage den aktuellen Stream des Themes zu laden und deshalb war ich nicht in der Lage weiter zu machen! Starte das Match neu und versuche es erneut."
   },
   "embeds": {
+    "answerEmbed": {
+      "fields": {
+        "season": "Anime Saison",
+        "year": "Jahr",
+        "titlesAndSynonyms": "Titel&Synonymen"
+      },
+      "footer": "\"{{songName}}\"| Künstler/in(nen):{{songArtist}}"
+    },
     "roundStarted": {
       "title": "Die {{currentRound}} Runde hat angefangen!",
       "description": "Von welchem Anime ist das {{themeType}}? Du hast {{time}} zeit um zu raten!"

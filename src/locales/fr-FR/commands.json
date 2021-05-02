@@ -47,5 +47,35 @@
     "thanks": "Merci de vouloir m'ajouter! Voici le lien d'invitation! {{invite}}\nAmuse-toi bien!",
     "lookDM": "Peux-tu regarder tes MP (messages privés) ?",
     "unavailableDM": "Il semblerait que tes MP (messages privés) soient limités. Je suis donc incapable de t'envoyer ce message."
+  },
+  "botinfo": {
+    "commandDescription": "Montre toutes les informations du bot.",
+    "title": "Ritsu - Qui suis-je ?",
+    "ritsuAbout": "Salut! Je suis **Ristu**, un bot Discord basé sur le jeu **AnimeMusicQuiz**! Je vais jouer un opening ou un ending et tu devras trouver de quel anime il vient, je suis sur les serveurs **{{servers}}** et en ligne depuis **{{uptime}}** avec **{{matches}}** matchs en ce moment!\n\nJ'ai été crée avec {{tsEmoji}} **TypeScript** et j'utilise **Eris**, si tu veux voir mon code source, tu as juste à visiter mon Github ici! {{githubLink}}",
+    "footer": "Ristu a été développé par {{user}} • version {{version}} • {{environment}}",
+    "fields": {
+      "commands": {
+        "commands": "{{emoji}} Commandes",
+        "useHelpCommand": "Utilise la commande {{command}}!"
+      },
+      "social": {
+        "social": "{{emoji}} Social",
+        "supportServer": "Serveur de support"
+      },
+      "usefulLinks": {
+        "usefulLinks": "{{emoji}} Liens utiles",
+        "upvote": "Vote pour le bot!"
+      },
+      "specialThanks": {
+        "specialThanks": "{{emoji}} Remerciements spéciaux",
+        "animethemes": "Un projet incroyable qui a aide Ritsu depuis le début à fournir des openings et des endings de haute qualité.",
+        "openingsmoe": "Un autre projet incroyable qui a aidé le bot dans les moments les plus difficiles, en fournissant des openings et des endings de haute qualité.",
+        "animemusicquiz": "La plus grande inspiration pour ce projet.",
+        "githubContributors": "Toutes les personnes qui ont aidé au développement de Ritsu sur Github.",
+        "translators": "Toutes les personnes qui ont contribué à la traduction du bot sur Crowdin et donc grâce à aide Ritsu peut répandre la magie d'AnimeMusicQuiz à l'international.",
+        "patrons": "Toutes les personnes qui ont supporté Ristu financièrement sur le Patreon, vous les gars, vous êtes vraiment incroyable!",
+        "friends": "Mes incroyables amis, Gabriel Bifano, Pedro Lyrio et Krag qui m'ont aidé à tester le bot et qui l'ont supporté depuis le tout début."
+      }
+    }
   }
 }

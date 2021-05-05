@@ -5,6 +5,8 @@
   "roundEnded": "Alle Runden sind vorbei! Danke für's Spielen!",
   "nobody": "Niemand",
   "songDetails": "{{songName}} | Künstler: {{songArtist}}",
+  "winners": "Der/Die Sieger dieser Runde ist/sind...{{users}}",
+  "roundWinner": "Glückwunsch {{user}}! Du hast in {{time}} richtig geantwortet!",
   "errors": {
     "noVoiceChannel": "Du musst in einem Sprachkanal sein damit ich das Match starten kann!",
     "noUsersInTheVoiceChannel": "Es scheint so das der Host nicht mehr im Sprachkanal ist, bitte starte das Match neu.",

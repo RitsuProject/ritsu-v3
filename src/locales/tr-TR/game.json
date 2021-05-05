@@ -5,6 +5,8 @@
   "roundEnded": "Tüm turlar bitti! Oynadığınız için teşekkürler!",
   "nobody": "Hiçkimse",
   "songDetails": "\"{{songName}}\" | Sanatçı(lar): {{songArtist}}",
+  "winners": "Bu turu kazanan(lar)...{{users}}",
+  "roundWinner": "Tebrikler {{user}}! Doğru cevabı {{time}} sürede buldun!",
   "errors": {
     "noVoiceChannel": "Odaya girip, oyunu başlatabilmem için bir ses kanalında olman gerekiyor!",
     "noUsersInTheVoiceChannel": "Oyunu başlatan kişi artık ses kanalında değil gibi görünüyor, lütfen oyunu yeniden başlatın.",

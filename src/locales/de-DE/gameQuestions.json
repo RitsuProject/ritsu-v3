@@ -5,6 +5,7 @@
   "whatAnimeListWebsite": "Auf welcher Website ist deine Animeliste? (Unterstützt: {{websites}})",
   "whatUsername": "Was ist dein Username auf der ausgewählten Website?",
   "whatYearAndSeason": "Was ist das Jahr und die Jahrezeit? (Beispiel: 2021, Winter)",
+  "whatThemeType": "Möchtest du nur Openings, nur Endings oder beides? (Unterstützt: Openings, Endings, beides)",
   "errors": {
     "matchStopped": "Das Match wurde abgebrochen, wenn du noch eins starten möchtest, benutze ``{{command}}``.",
     "expiredMatch": "Dein Match ist abgelaufen, wenn du eine weitere starten willst, benutzte \"{{command}}\"\"",
@@ -16,6 +17,7 @@
     "invalidFormat": "Scheint so als wäre das nicht im richtigen Format.",
     "invalidUsername": "Ich konnte diesen Username nicht auf der ausgewählten Website finden!",
     "minimiumDuration": "Die Dauer ist zu kurz. Die minimale Dauer ist 20 Sekunden!",
-    "unsufficientAnimes": "Du musst mindestens 10 Anime auf deiner Liste haben um diesen Modus zu spielen."
+    "unsufficientAnimes": "Du musst mindestens 10 Anime auf deiner Liste haben um diesen Modus zu spielen.",
+    "invalidThemeType": "Ich kann diese Art von Song! Bitte stell sicher das du einen dieser Arten geschickt hast: {{types}}"
   }
 }

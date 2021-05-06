@@ -5,7 +5,7 @@
   "whatAnimeListWebsite": "Anime listen hangi web sitesinde? (Desteklenenler: {{websites}})",
   "whatUsername": "Seçtiğin web sitesinde kullanıcı adın nedir?",
   "whatYearAndSeason": "Yıl ve mevsim nedir? (Örnek: 2021, Winter)",
-  "whatThemeType": "Sadece açılışları, kapanışları veya her ikisini mi istiyorsun? (Desteklenenler: açılışlar, kapanışlar, her ikisi de)",
+  "whatThemeType": "Sadece açılışları, kapanışları veya her ikisini de mi istiyorsun? (Desteklenenler: açılış, kapanış, karışık)",
   "errors": {
     "matchStopped": "Oyun iptal edildi, başka bir oyun başlatmak istiyorsan, ``{{command}}`` komutunu kullan.",
     "expiredMatch": "Oyun zaman aşımına uğradı. Yeni bir oyun başlatmak ister misin? Cevabın evet ise, ``{{command}}`` komutunu kullan",

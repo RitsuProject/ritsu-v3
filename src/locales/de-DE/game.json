@@ -5,12 +5,22 @@
   "roundEnded": "Alle Runden sind vorbei! Danke für's Spielen!",
   "nobody": "Niemand",
   "songDetails": "{{songName}} | Künstler: {{songArtist}}",
+  "winners": "Der/Die Sieger dieser Runde ist/sind...{{users}}",
+  "roundWinner": "Glückwunsch {{user}}! Du hast in {{time}} richtig geantwortet!",
   "errors": {
     "noVoiceChannel": "Du musst in einem Sprachkanal sein damit ich das Match starten kann!",
     "noUsersInTheVoiceChannel": "Es scheint so das der Host nicht mehr im Sprachkanal ist, bitte starte das Match neu.",
     "unableToLoadStream": "Aus sehr bösen Gründen, war ich nicht in der Lage den aktuellen Stream des Themes zu laden und deshalb war ich nicht in der Lage weiter zu machen! Starte das Match neu und versuche es erneut."
   },
   "embeds": {
+    "answerEmbed": {
+      "fields": {
+        "season": "Anime Saison",
+        "year": "Jahr",
+        "titlesAndSynonyms": "Titel&Synonymen"
+      },
+      "footer": "\"{{songName}}\"| Künstler/in(nen):{{songArtist}}"
+    },
     "roundStarted": {
       "title": "Die {{currentRound}} Runde hat angefangen!",
       "description": "Von welchem Anime ist das {{themeType}}? Du hast {{time}} zeit um zu raten!"

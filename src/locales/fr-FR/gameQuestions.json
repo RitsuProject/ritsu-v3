@@ -5,6 +5,7 @@
   "whatAnimeListWebsite": "Sur quel site internet se trouve ta liste d'animés? (Site supportés: {{websites}})",
   "whatUsername": "Quel est ton pseudo sur le site web que tu as choisi précédemment ?",
   "whatYearAndSeason": "Quelle est l'année et la saison? (Exemple: 2021, Winter)",
+  "whatThemeType": "Tu veux seulement des openings, des endings ou les deux? (Syntaxe supportée : openings, endings, both)",
   "errors": {
     "matchStopped": "Le match a été annulé, si tu veux en démarrer un autre, utilises ``{{command}}``.",
     "expiredMatch": "Ton match a expiré. Veux-tu en démarrer un autre? Utilise ``{{command}}``",
@@ -16,6 +17,7 @@
     "invalidFormat": "Ce n'est apparemment pas dans le bon format.",
     "invalidUsername": "Je n'ai pas trouvé ce pseudo sur le site sélectionné!",
     "minimiumDuration": "La durée est trop courte. La durée minimum est de 20 secondes!",
-    "unsufficientAnimes": "Tu as besoin d'au moins 10 animes dans ta liste pour utiliser ce mode de jeu."
+    "unsufficientAnimes": "Tu as besoin d'au moins 10 animes dans ta liste pour utiliser ce mode de jeu.",
+    "invalidThemeType": "Je ne peux pas reconnaître le type de ce thème! S'il te plait, soit sure d'avoir envoyé au moins un des types suivant: {{types}}"
   }
 }

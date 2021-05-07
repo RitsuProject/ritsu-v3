@@ -1,7 +1,11 @@
 # ritsu-v3
 📚 Next version of Ritsu totally rewritten in Typescript and Eris.
 
-### Current stage: **It is close to launch! (PRE-ALPHA)**
+### Repository Migration
+
+This repository has migrated to https://github.com/RitsuProject/Ritsu to start finishing all the things to the beta and final release as well.
+
+### Current stage: **It is REALLY close to launch! (BETA)**
 
 ### Changed and Added Features: (not everything is done and can change)
 - Typescript and Eris (duh)
